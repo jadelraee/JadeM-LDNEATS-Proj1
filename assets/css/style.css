@@ -100,15 +100,30 @@ nav img {
 
 .card-container{
     max-width: 1150px;
+    padding: 0 30px;
     margin: 0 auto;
     display: flex;
+    flex-wrap: wrap;
     column-gap: 20px;;
-    font-family: ''
+    row-gap: 20px;
+
+}
+
+.card:nth-of-type(1){
+    flex:1 250px;;
+}
+.card:nth-of-type(2){
+    flex:1 250px;
+}
+.card:nth-of-type(3){
+    flex:1 250px;
 }
 
 .card{
     border-radius: 5px;
-    box-shadow: box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.1);
+    box-shadow:  0px 10px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
 }
 
 .card__image{
@@ -120,6 +135,9 @@ nav img {
 
 .card__content{
     background: #fff;
+    flex-direction: column;
+    display: flex;
+    flex: 1;
 }
 
 .card__content h1{
@@ -130,6 +148,7 @@ nav img {
 
 .card__content p{
     padding: 20px;
+    flex: 1;
 }
 
 .card a{
@@ -138,12 +157,14 @@ nav img {
     order: 1px solid #C80036;
     text-align: center;
     color:black;
+    margin-top: auto;
+    padding: 10px;
+    transition: background-color 1s, color 1s;
 }
 
+
 .card-btn:hover{
-    padding: 10px;
     background-color: #C80036;
-    transition: 1s;
     color: #fff;
 }
 
@@ -180,33 +201,35 @@ input, textarea {
     border-radius: 4px;
     margin-bottom: 10px;
     border: 1px solid black;
+    resize: none;
 }
 
+
 form button {
+    outline: none;
+    border: 1px solid black;
     width: 100%;
     padding: 10px;
     background: #fff;
     cursor: pointer;
     color: black;
-    margin-top: 10px;
     border-radius: 7px;
 }
 
 form button:hover {
-    border: none;
-    outline: none;
     background: #C80036;
     color: #fff;
 }
 
 /* Responsiveness */
 @media(max-width: 1200px) {
+
     .form-container {
-        width: 350px;
+        width: 400px;
     }
 }
 
-@media(max-width: 900px) {
+@media(max-width: 800px) {
     nav {
         flex-direction: column;
         align-items: center;
@@ -251,14 +274,15 @@ form button:hover {
     }
 
     .form-container {
-        width: 50%;
+        width: 250px;
         padding: 15px;
         margin: 50px auto;
     }
-}
+
 
     @media(max-width: 600px) {
         .form-container {
-            width: 70%; 
+            width: 200px; 
         }
     }
+}
