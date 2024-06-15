@@ -1,24 +1,20 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'Archive', Arial, Helvetica, sans-serif;
     box-sizing: border-box;
 }
 
-/*Background*/
-
-.header{
+body {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,.75)), url(/assets/img/heroimage.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/assets/img/heroimage.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
-
 }
 
-/*Navigation*/
-
+/* Navigation */
 nav {
     display: flex;
     width: 100%;
@@ -28,11 +24,11 @@ nav {
     align-items: center;
 }
 
-nav img{
+nav img {
     width: 150px;
 }
 
-.nav-links{
+.nav-links {
     flex: 1;
     text-align: right;
 }
@@ -60,10 +56,8 @@ nav img{
     color: #C80036;
 }
 
-
-/*Main content*/
-
-.text-box{
+/* Main content */
+.text-box {
     width: 90%;
     color: #fff;
     position: absolute;
@@ -74,18 +68,17 @@ nav img{
     margin-top: 20px;
 }
 
-.text-box h1{
+.text-box h1 {
     font-size: 30px;
 }
 
-.text-box h2{
+.text-box h2 {
     font-size: 40px;
     margin: 10px 0 20px;
 }
 
-/*CTA*/
-
-.hero-btn{
+/* CTA */
+.hero-btn {
     display: inline-block;
     text-decoration: none;
     color: #fff;
@@ -97,27 +90,105 @@ nav img{
     cursor: pointer;
 }
 
-.hero-btn:hover{
+.hero-btn:hover {
     border: 1px solid #C80036;
-    background:#C80036;
+    background: #C80036;
     transition: 1s;
 }
 
+/* best eats section */
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin-top: 100px;
+}
 
+.card {
+    width: 325px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
 
-/*Responsiveness*/
+.card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
 
-@media(max-width: 700px) {
+.card-content {
+    padding: 20px;
+}
 
+/* contact us page */
+.form-container {
+    width: 350px;
+    max-width: 100%;
+    background: #fff;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.75);
+}
+
+form {
+    width: 100%;
+    margin: 40px auto;
+}
+
+form h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    outline: none;
+    display: block;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+form button {
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    cursor: pointer;
+    color: black;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+form button:hover {
+    background: #C80036;
+}
+
+/* Responsiveness */
+@media(max-width: 1200px) {
+    .form-container {
+        width: 350px;
+    }
+}
+
+@media(max-width: 800px) {
     nav {
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
     }
 
     .nav-links {
         width: 100%;
         text-align: left;
-        margin-top: 20px;
+        margin-top: 5px;
     }
 
     .nav-links ul {
@@ -126,7 +197,7 @@ nav img{
     }
 
     .nav-links ul li {
-        padding: 10px 0;
+        padding: 5px 0;
         width: 100%;
     }
 
@@ -136,8 +207,8 @@ nav img{
         display: block;
     }
 
-    .text-box{
-        margin-top: 80px;
+    .text-box {
+        margin-top: 100px;
     }
 
     .text-box h1 {
@@ -152,28 +223,16 @@ nav img{
         padding: 10px 20px;
     }
 
-    /* .text-box h1{
-        font-size: 20px;
+    .form-container {
+        width: 50%;
+        padding: 15px;
+        margin: 50px auto;
     }
-
-    .text-box h2{
-        font-size: 30px;
-        margin: 10px 0 20px;
-    }
-
-    .hero-btn{
-        display: inline-block;
-        text-decoration: none;
-        color: #fff;
-        border: 1px solid #C80036;
-        background: transparent;
-        padding: 10px;
-        border-radius: 30px;
-        position: relative;
-        cursor: pointer;
-    } */
-
-    
-
 }
 
+    @media(max-width: 500px) {
+        .form-container {
+            width: 90%;
+            padding: 10px;
+        }
+    }
