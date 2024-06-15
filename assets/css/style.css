@@ -5,13 +5,23 @@
     box-sizing: border-box;
 }
 
-body {
+html, body {
     min-height: 100vh;
     width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/assets/img/heroimage.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
+}
+
+.page-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main{
+    flex:1;
 }
 
 /* Navigation */
@@ -221,6 +231,44 @@ form button:hover {
     color: #fff;
 }
 
+/*footer*/
+.footer{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+    padding: 40px 0;
+    background: transparent;
+    margin-top: auto;
+}
+
+.footer .social{
+    text-align: center;
+    color: #C80036;
+}
+
+.footer .social a{
+    font-size: 20px;
+    color: inherit;
+    height: 10px;
+    width: 40px;
+    line-height:18px;
+    display: inline-block;
+    text-align: center;
+    margin: 0 8px;
+    opacity: 0.75;
+}
+
+.footer .social a:hover{
+    opacity: 4;
+}
+
+.footer .copyright{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #fff;
+
+}
 /* Responsiveness */
 @media(max-width: 1200px) {
 
