@@ -14,7 +14,7 @@
     <div class="page-container">
     <!--Header and nav-->
     <header>
-        <nav>
+        <nav class="navigation">
             <div class="logo">
             <a href="index.html"><img src="assets/img/LOGO2.png" alt="london eats logo"></a>
             </div>
@@ -31,12 +31,13 @@
 
     <!-- Form Box-->
      <div class="form-container">
-        <form action="" class="contact-box">
+        <form action="https://api.web3forms.com/submit" method="POST" class="contact-box">
             <h1>Contact Us</h1>
+            <input type="hidden" name="7c12775d-48c7-4b20-a429-ee7538f762f6" value="YOUR_ACCESS_KEY_HERE">
             <input type="text" name="name" placeholder="Full Name" class="contact-data" required>
             <input type="email" name="email" placeholder="Email" class="contact-data" required>
             <textarea name="message" cols="30" rows="3" placeholder="Message" class="contact-data" required></textarea>
-            <button >Submit</button>
+            <a href="successful.html"><button >Submit</button></a>
         </form>
      </div>
 
