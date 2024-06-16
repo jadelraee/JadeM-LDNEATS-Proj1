@@ -330,4 +330,8 @@ form button:hover {
         padding: 80px 0;
     }
 
+    .footer .copyright {
+        margin-top: 10px;
+    }
+
 }
