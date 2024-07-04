@@ -1,7 +1,6 @@
 # Jade Man - Project 1
 
-(https://jadelraee.github.io/JadeM-LDNEATS-Proj1/)
-
+## You will be able to view my first project [here] (https://jadelraee.github.io/JadeM-LDNEATS-Proj1/)
 
 Website Visuals ![Untitled design (6)](https://github.com/jadelraee/JadeM-LDNEATS-Proj1/assets/159780319/6db830cc-84ce-4608-8776-12f2e8996258)
 
