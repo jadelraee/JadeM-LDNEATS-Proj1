@@ -1,4 +1,4 @@
-* Jade Man Project 1 - London Eats 
+# Jade Man Project 1 - London Eats 
 
 You will be able to view my first project [here](https://jadelraee.github.io/JadeM-LDNEATS-Proj1/)
 
