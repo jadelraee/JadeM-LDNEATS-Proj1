@@ -10,6 +10,15 @@ For my first project I really wanted to create something that I was truly intere
 
 # Contents
 
++ User Experience 
++ Design 
+- Wireframes
+* Desktop
+* Mobile 
+- Typography
+* Fonts 
+- Images
+
 
 Design / Wireframes / Colours / Typography / Features 
 
