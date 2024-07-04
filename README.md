@@ -1,8 +1,7 @@
-# Jade Man LDNEATS Project 1 
+[Jade Man Project 1 - London Eats] (https://jadelraee.github.io/JadeM-LDNEATS-Proj1/)
 
-Please click [here](https://jadelraee.github.io/JadeM-LDNEATS-Proj1/) to view my first project.
 
-For my first project I really wanted to create something that I was truly interested in. Being a big foodie and residing in London, I took inspiration from the city and places I've been to and wanted to share that. Hopefully when my skills advance, I will be able to add more to the website but first wanted to get the fundamentals down.
+Website Visuals ![Untitled design (6)](https://github.com/jadelraee/JadeM-LDNEATS-Proj1/assets/159780319/6db830cc-84ce-4608-8776-12f2e8996258)
 
 
 Contents
