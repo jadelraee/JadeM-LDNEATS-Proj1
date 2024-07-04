@@ -164,7 +164,6 @@ nav img {
 .card a{
     display: block;
     text-decoration: none;
-    order: 1px solid #C80036;
     text-align: center;
     color:black;
     margin-top: auto;

@@ -15,10 +15,16 @@ For my first project I really wanted to create something that I was truly intere
   * Wireframes
     * Desktop 
     * Mobile 
+  * Colour Scheme 
   * Typography
     * Fonts 
   * Images 
-
++ Features 
++ Development 
+  * Deployment 
+    * Fork 
+    * Clone 
+    
 
 
 Design / Wireframes / Colours / Typography / Features 
