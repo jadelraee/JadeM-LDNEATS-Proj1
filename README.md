@@ -10,21 +10,34 @@ For my first project I really wanted to create something that I was truly intere
 
 # Contents
 
-+ User Experience 
++ [User Experience](#user-stories)
+  * User Stories 
 + Design 
   * Wireframes
-    * Desktop 
-    * Mobile 
   * Colour Scheme 
   * Typography
-    * Fonts 
-  * Images 
+  * Imagery
 + Features 
+   * Homepage 
+   * Best Eats
+   * Contact Us 
+   * Form Submit 
+   * Advancement 
+   * Accessability 
+   
 + Development 
   * Deployment 
     * Fork 
-    * Clone 
-    
+    * Clone
+
+  * Testing 
+    * W3C Validator
+    * W3C CSS Validator 
+    * Lighthouse
+
++ Credits 
+
+
 
 
 Design / Wireframes / Colours / Typography / Features 
