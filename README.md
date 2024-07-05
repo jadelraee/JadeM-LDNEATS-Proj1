@@ -16,17 +16,17 @@ For my first project I really wanted to create something that I was truly intere
 
 - [Design](#design)
 
-  - [Wireframes]
-  - [Colour Scheme]
-  - [Typography]
-  - [Imagery]
-+ [Features]
-   - [Homepage]
-   - [Best Eats]
-   - [Contact Us] 
-   - [Form Submit]
-   - [Advancement] 
-   - [Accessability]
+  - [Wireframes](#wireframes)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
++ [Features](#features)
+   - [Homepage](#homepage)
+   - [Best Eats](#best-eats)
+   - [Contact Us](#contact-us)
+   - [Form Submit](#form-submit)
+   - [Advancement](#advancement)
+   - [Accessability](#accessibility)
    
 - [Development]
   - [Deployment] 
@@ -63,3 +63,29 @@ For my first project I really wanted to create something that I was truly intere
 
 ### Wireframes
 Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wireframepro/)
+
+### Colour Scheme 
+
+I wanted a clean looking enticing website. As this is more of a blog/promotional website, I wanted to stay true to my inspiration which was London, but didn't want to go in your face Uniion Jack. I chose 
+
+### Typography 
+
+### Imagery
+
+## Features 
+
+### Homepage 
+
+### Best Eats 
+
+### Contact Us 
+
+### Form Submit 
+
+### Advancement 
+
+## Accessibility 
+
+## Development 
+
+### Deployment 
