@@ -28,14 +28,16 @@ For my first project I really wanted to create something that I was truly intere
    - [Advancement](#advancement)
    - [Accessability](#accessibility)
    
-- [Development](#deployment)
-  - [Deployment]
+- [Development](#development)
+  - [Deployment](#deployment)
     - [Fork](#how-to-fork)
     - [Clone](#how-to-clone)
 
   - [Testing](#testing)
-  
-- [Credits]
+
+- [Credits](#credits)
+
+- [Awknowledgements](#awknowledgements)
 
 ---
 
