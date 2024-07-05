@@ -141,6 +141,8 @@ I wanted to be able to receive each form submission to my personal email address
 ![form-receive](/assets/docs/form-received.png)
 
 ### Advancement 
+  - Improvements 
+    - Future considerations would be adding a slider reel to the different foods, adding contact information and maps. I would also like to add an 'About Us' page letting the user know our backstory so its a bit more personal and a bit less 'promotional' 
 
 ## Accessibility 
 
@@ -150,17 +152,74 @@ I wanted to focus on accessibilty as much as possible when thinking about how a 
 - The second way was ensuring that I had hover effects and interactive CTA's. 
 - I also ensure that CTA's were shown differently on different devices. For example, on desktop there is a hover effect, but on smaller devices the CTAs will have a background colour to make sure the user knows these are clickable.
 
+Homepage on Desktop 
+
+
 Best Eats page on a Desktop 
 
 ![besteats-cta-desk](/assets/docs/best-eats-desk.png)
 
-Best Eats page on mobile 
+Best Eats page on Mobile 
 
 ![besteats-cta-mob](/assets/docs/mobile-cta.png)
 
 
+
 ## Development 
+
+The two languages used were HTML and CSS. 
+
+### Websites, Libraries and Programs 
+
+- [VSCode] Was the IDE I chose. I did try alternatives but found I'm most comfortable with VSCode.
+- [Git] - Version control tool 
+- [GitHub] - Add and store files
+- [Favicon] - Websites Favicon across pages 
+- [Google Fonts]() - Font choice 
+- [Colour Hunt]() - To choose my colour scheme 
+- [Google Dev Tools]() - For responsiveness and fixes 
+- [WS3 Validator]() - For bug testing 
+- [Font Awesome]() - For social links on the footer
+- [Canva]() - To create my Logo 
+- [Wireframe Pro]() - To create the wireframes
 
 ### Deployment 
 
+The website is deployed via GitHub pages. To deploy:
+
+1. Log in to Github (or sign up).
+2. Go to the repository for this project - https://jadelraee.github.io/JadeM-LDNEATS-Proj1
+3. Click the "Settings" button above the project name.
+4. Select "Pages" from the navigation bar at the left of the screen.
+5. From the source dropdown, select "Deploy from a branch", and then "main".
+6. The site is now deployed. 
+
+#### How to Fork 
+
+To Fork this repository: 
+
+1. Log in to GitHub 
+2. Go to the repository - https://jadelraee.github.io/JadeM-LDNEATS-Proj1
+3. Click 'Fork'
+
+#### How to Clone 
+
 ## Testing 
+
+## Credits 
+
+### Alternative resources 
+
+YouTube has been my main source of education for topics such as Flex-box, Flex-Grid and responsiveness. [Slaying The Dragon](https://www.youtube.com/@slayingthedragon/videos) had been such a help to learn more about flex-box which was vital for my development. 
+
+I also loved [Kevin Powell's](https://www.youtube.com/@KevinPowell) videos as they really went in depth with specificity, flex and responsiveness. 
+
+## Awknowledgements 
+
+I would love to send a big thanks and shout out to: 
+
+  - The CI support team, I really struggled with the first part of this project due to personal circumstance, and they really helped and provided support and I really appreciate that. 
+  - UCP-15 Discord - My cohort are a big inspiration and being able to be in that environment has really helped me push myself when I have felt isolated with such a remote working environment 
+  - Mark Nevison - He's honestly such a great person who has been the forefront of support here despite only joining the course along with us. 
+  - Fiona Henry - For being on call for any advice I may need. 
+  - Harry from CI London Whatsapp Group - He was the first person here I spoke to and met and being invited to the Whatsapp group to receive daily does of encouragment amonsgt peers who have either completed or are ahead on the course has been amazing. 
