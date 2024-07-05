@@ -96,6 +96,12 @@ I thought the image of a taco in the city was perfect, also though the colours r
 
 ![hero-image](/assets/img/heroimage.jpg)
 
+Conscious that despite how great the image may be, this could be too overpoweing and I didnt want it to distract the users from the CTA and further exploration of the site, so I added a linear gradient which I thought worked really well. 
+
+I also created my own logo in [Canva](https://www.canva.com/) which really ignited my inspiration behind the whole website. 
+
+![logo-img](/assets/img/LOGO2.png)
+
 
 ## Features
 
