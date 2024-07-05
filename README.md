@@ -12,7 +12,7 @@ For my first project I really wanted to create something that I was truly intere
 
 - [User Experience](#user-experience)
 
-  -  [User Stories](#user-stores)
+  -  [User Stories](#user-stories)
 
 - [Design](#design)
 
@@ -48,26 +48,18 @@ For my first project I really wanted to create something that I was truly intere
 
 ### New Users 
 
-    * I want to the website to be accessible on any device.
-    * I want navigation to be simple and easy to use.
-    * I want to collect user data on a user
+  - I want the website to be accessible on any device.
+  - I want navigation to be simple and easy to use. 
+  - I want to collect useful user data.
+
 ### User Retention 
-    * I would like to be able to market future collaborations/recommendations to the user
+  -  I would like to be able to market future collaborations/recommendations to the user
 ### Frequent Visitors
-    * I would like to spike engagement across all social platforms
+  - I would like to spike engagement across all social platforms
 
 ---
 
 ## Design
 
 ### Wireframes
-  * Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wireframepro/)
-
-
-Design / Wireframes / Colours / Typography / Features 
-
-
-Wireframes
-
-Created by using Wireframe Pro (www.wireframepro.mockflow.com)
-
+Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wireframepro/)
