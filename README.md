@@ -29,15 +29,12 @@ For my first project I really wanted to create something that I was truly intere
    - [Accessability](#accessibility)
    
 - [Development](#deployment)
-  - [Deployment] 
-    - [Fork] 
-    - [Clone]
+  - [Deployment]
+    - [Fork](#how-to-fork)
+    - [Clone](#how-to-clone)
 
-  - [Testing] 
-    - [W3C Validator]
-    - [W3C CSS Validator] 
-    - [Lighthouse]
-
+  - [Testing](#testing)
+  
 - [Credits]
 
 ---
@@ -171,17 +168,18 @@ The two languages used were HTML and CSS.
 
 ### Websites, Libraries and Programs 
 
-- [VSCode] Was the IDE I chose. I did try alternatives but found I'm most comfortable with VSCode.
-- [Git] - Version control tool 
-- [GitHub] - Add and store files
-- [Favicon] - Websites Favicon across pages 
-- [Google Fonts]() - Font choice 
-- [Colour Hunt]() - To choose my colour scheme 
-- [Google Dev Tools]() - For responsiveness and fixes 
-- [WS3 Validator]() - For bug testing 
-- [Font Awesome]() - For social links on the footer
-- [Canva]() - To create my Logo 
+- [VSCode](https://code.visualstudio.com/) Was the IDE I chose. I did try alternatives but found I'm most comfortable with VSCode.
+- [Git](https://git-scm.com/) - Version control tool 
+- [GitHub](https://github.com/) - Add and store files
+- [Favicon](https://www.favicon.cc/?) - Websites Favicon across pages 
+- [Google Fonts](https://fonts.google.com/) - Font choice 
+- [Colour Hunt](https://colorhunt.co/) - To choose my colour scheme 
+- [Google Dev Tools](https://developer.chrome.com/docs/devtools) - For responsiveness and fixes 
+- [WS3 Validator](https://validator.w3.org/) - For bug testing 
+- [Font Awesome](https://fontawesome.com/) - For social links on the footer
+- [Canva](https://www.canva.com/) - To create my Logo 
 - [Wireframe Pro]() - To create the wireframes
+- [Web3Forms](https://web3forms.com/) - To receive form submissions to inbox and receive a 'We received your submisison' page.
 
 ### Deployment 
 
@@ -203,8 +201,25 @@ To Fork this repository:
 3. Click 'Fork'
 
 #### How to Clone 
+1. Log in to GitHub (or sign up).
+2. Go to the repository for this project - https://jadelraee.github.io/JadeM-LDNEATS-Proj1
+3. Click on the "Code" button above the number of commits.
+4. Choose to clone with either HTTPS, SSH or GitHub CLI, then copy the given link.
+5. Open the terminal in your desired IDE, then choose the location for the cloned directory.
+6. Type 'git clone' into the terminal, paste the link and press enter.
 
 ## Testing 
+
+When I first deployed my website, the images were not showing. This included all images across the site. I quickly realised this was due to my file path being incorrect, I updated this and it now works! 
+
+I also did some testing using WS3 Validator for my CSS components and received the below error: 
+
+![bug-css-img](/assets/docs/CSS%20bug.png)
+
+It showed that one of my CSS properties associated with one of my card classes was not recognised, or there were too many values. I quickly realised this was not applicable anymore to the current design of my page and quickly removed that. 
+
+There was also an issue with one of the links provided by font awesome when adding in social links to the footer. I had to google what the error meant as I wasn't sure and tested this by removing the link to see if this had any affect on my social links on my footer. This did not and the issue was resolved, it appears some links Font Awsome provide are not applicable with how icons are applied to the page. 
+
 
 ## Credits 
 
@@ -222,4 +237,4 @@ I would love to send a big thanks and shout out to:
   - UCP-15 Discord - My cohort are a big inspiration and being able to be in that environment has really helped me push myself when I have felt isolated with such a remote working environment 
   - Mark Nevison - He's honestly such a great person who has been the forefront of support here despite only joining the course along with us. 
   - Fiona Henry - For being on call for any advice I may need. 
-  - Harry from CI London Whatsapp Group - He was the first person here I spoke to and met and being invited to the Whatsapp group to receive daily does of encouragment amonsgt peers who have either completed or are ahead on the course has been amazing. 
+  - Harry from CI London Whatsapp Group - He was the first person here I spoke to and met and being invited to the Whatsapp group to receive daily doses of encouragment amongst peers who have either completed or are ahead on the course has been amazing. 
