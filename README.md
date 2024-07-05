@@ -118,8 +118,15 @@ I wanted to be able to receive each form submission to my personal email address
 I wanted to focus on accessibilty as much as possible when thinking about how a user interacts with my site. 
 
 - The first way to do this was to use semantic HTML elements in my code.
-- The second way was ensuring that I had hover effects and interative CTA's. 
-- I also ensure that CTA's were shown differently on different devices. 
+- The second way was ensuring that I had hover effects and interactive CTA's. 
+- I also ensure that CTA's were shown differently on different devices. For example, on desktop there is a hover effect, but on smaller devices the CTAs will have a background colour to make sure the user knows these are clickable.
+
+Best Eats page on a Desktop 
+
+![besteats-cta-desk](/assets/docs/best-eats-desk.png)
+
+Best Eats page on mobile 
+![besteats-cta-mob](/assets/docs/mobile-cta.png)
 
 
 ## Development 
