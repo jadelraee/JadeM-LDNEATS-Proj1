@@ -10,35 +10,35 @@ For my first project I really wanted to create something that I was truly intere
 
 ## Contents
 
-+ [User Experience](#user-experience)
+- [User Experience](#user-experience)
 
-  * [User Stories](#user-stores)
+  -  [User Stories](#user-stores)
 
-+ [Design](#design)
+- [Design](#design)
 
-  * [Wireframes]
-  * [Colour Scheme]
-  * [Typography]
-  * [Imagery]
+  - [Wireframes]
+  - [Colour Scheme]
+  - [Typography]
+  - [Imagery]
 + [Features]
-   * [Homepage]
-   * [Best Eats]
-   * [Contact Us] 
-   * [Form Submit]
-   * [Advancement] 
-   * [Accessability]
+   - [Homepage]
+   - [Best Eats]
+   - [Contact Us] 
+   - [Form Submit]
+   - [Advancement] 
+   - [Accessability]
    
-+ [Development]
-  * [Deployment] 
-    * [Fork] 
-    * [Clone]
+- [Development]
+  - [Deployment] 
+    - [Fork] 
+    - [Clone]
 
-  * [Testing] 
-    * [W3C Validator]
-    * [W3C CSS Validator] 
-    * [Lighthouse]
+  - [Testing] 
+    - [W3C Validator]
+    - [W3C CSS Validator] 
+    - [Lighthouse]
 
-+ [Credits]
+- [Credits]
 
 ---
 
