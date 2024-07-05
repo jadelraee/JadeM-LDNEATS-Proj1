@@ -28,7 +28,7 @@ For my first project I really wanted to create something that I was truly intere
    - [Advancement](#advancement)
    - [Accessability](#accessibility)
    
-- [Development]
+- [Development](#deployment)
   - [Deployment] 
     - [Fork] 
     - [Clone]
@@ -63,17 +63,28 @@ For my first project I really wanted to create something that I was truly intere
 
 ### Wireframes
 Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wireframepro/)
+
 ![home-desktop](/assets/docs/HOME-DESK.png) ![home-mobile](/assets/docs/HOME-MOB.png) ![eats-desktop](/assets/docs/EATS-DESK.png) ![eats-mobile](/assets/docs/EATS-MOB.png) ![form-desktop](/assets/docs/FORM-DESK.png) ![form-mobile](/assets/docs/FORM-MOB.png)
 
 ### Colour Scheme 
 
 I wanted a clean looking enticing website. As this is more of a blog/promotional website, I wanted to stay true to my inspiration which was London, but didn't want to go in your face Union Jack. 
 
+## Features 
+
+The website is set across 3 different pages, a Homepage, Best Eats page and Contact Us page.
+
+  - Each page has a Favicon image in the browser tab
+
+  ![favicon](/assets/docs/favicon-image.png)
+
+  - Each page is responsive across popular devices 
+  ![eats-mock](/assets/docs/BESTEATS-MOCK.png)
+
+
 ### Typography 
 
 ### Imagery
-
-## Features 
 
 ### Homepage 
 
@@ -90,3 +101,5 @@ I wanted a clean looking enticing website. As this is more of a blog/promotional
 ## Development 
 
 ### Deployment 
+
+## Testing 
