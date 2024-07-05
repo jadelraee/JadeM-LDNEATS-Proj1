@@ -70,6 +70,10 @@ Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wirefr
 
 I wanted a clean looking enticing website. As this is more of a blog/promotional website, I wanted to stay true to my inspiration which was London, but didn't want to go in your face Union Jack. 
 
+### Typography 
+
+### Imagery
+
 ## Features 
 
 The website is set across 3 different pages, a Homepage, Best Eats page and Contact Us page.
@@ -82,17 +86,26 @@ The website is set across 3 different pages, a Homepage, Best Eats page and Cont
   ![eats-mock](/assets/docs/BESTEATS-MOCK.png)
 
 
-### Typography 
-
-### Imagery
-
 ### Homepage 
+
+The homepage provides a quick summary of what the website is intended for, clearly shows the logo and social media links.  It's function is for people to clear the CTA on the page to be navigated to the main content which is our best eats page. 
+![homepage](/assets/docs/HOME-DESK.png)
 
 ### Best Eats 
 
+Best eats outlines the top three places that we would recommend to go, based off of our own lived in experience. The intention behind this is to provide a small description of each place with a hoverable/clickable CTA at the bottom to learn more, which opens the website of each market/food business. This opens in a new tab to ensure the user stays within our website. 
+![best-page](/assets/docs/best-eats-desk.png)
+
 ### Contact Us 
 
+The contact us page allows users the option to contact us with a message to find out more about us or the businesses we promite. 
+
+![form-page](/assets/docs/contact-us-mob.png)
+
 ### Form Submit 
+
+I wanted to be able to receive each form submission to my personal email address. I did some research into this and found [Web3forms](https://web3forms.com/) as a great solution for my first website. This allows me to receive HTML contact forms directly using an api service. 
+![form-receive](/assets/docs/form-received.png)
 
 ### Advancement 
 
