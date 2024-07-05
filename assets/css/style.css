@@ -327,6 +327,17 @@ form button:hover {
         background: #C80036;
     }
 
+    .card-btn{
+        background-color: #C80036;
+        color: #fff;
+    }
+
+    .card a{
+        text-decoration: none;
+        text-align: center;
+        color: #fff
+    }
+
     .form-container {
         width: 250px;
         padding: 15px;
