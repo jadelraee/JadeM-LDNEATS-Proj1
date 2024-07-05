@@ -12,7 +12,17 @@ For my first project I really wanted to create something that I was truly intere
 
 + [User Experience](#user-stories)
   * User Stories 
-+ Design 
+  User Aquisition
+    * I want to the website to be accessible on any device.
+    * I want navigation to be simple and easy to use.
+    * I want to collect user data on a user
+  User Retention
+    * I would like to be able to market future collaborations/recommendations to the user
+  Frequent Visitors 
+    * I would like to spike engagement across all social platforms
+
++ Design <br> 
+
   * Wireframes
   * Colour Scheme 
   * Typography
