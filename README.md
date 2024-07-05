@@ -63,10 +63,11 @@ For my first project I really wanted to create something that I was truly intere
 
 ### Wireframes
 Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wireframepro/)
+![home-desktop](/assets/docs/HOME-DESK.png) ![home-mobile](/assets/docs/HOME-MOB.png) ![eats-desktop](/assets/docs/EATS-DESK.png) ![eats-mobile](/assets/docs/EATS-MOB.png) ![form-desktop](/assets/docs/FORM-DESK.png) ![form-mobile](/assets/docs/FORM-MOB.png)
 
 ### Colour Scheme 
 
-I wanted a clean looking enticing website. As this is more of a blog/promotional website, I wanted to stay true to my inspiration which was London, but didn't want to go in your face Uniion Jack. I chose 
+I wanted a clean looking enticing website. As this is more of a blog/promotional website, I wanted to stay true to my inspiration which was London, but didn't want to go in your face Union Jack. 
 
 ### Typography 
 
