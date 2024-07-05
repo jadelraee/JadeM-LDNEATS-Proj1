@@ -70,9 +70,26 @@ Wireframes have been created by [wireframe-pro](https://mockflow.com/apps/wirefr
 
 I wanted a clean looking enticing website. As this is more of a blog/promotional website, I wanted to stay true to my inspiration which was London, but didn't want to go in your face Union Jack. 
 
+I created my own logo, which include the colours white and red, to represent UK flag colours. I did attempt to add in a 'blue' but again, I couldn't find the right colour and didn't want the website to look tacky. So thought two out of the three colours would be best. 
+
+I love the website [Colour-Hunt](https://colorhunt.co/) so initially went out and tried to find a colour that complimented the red in my logo, and settled upon '#C80036' 
+
+![colour-scheme](/assets/docs/colour-scheme.png)
+
+
+
 ### Typography 
 
+I used Google Fonts for the text, which is used across the site on all pages. I also used a backup font.
+
+- I chose [Archivo](https://fonts.google.com/specimen/Archivo) because I loved how compact it looked and thought it would go really well with the minimal clean design of the website. I didn't want anything to be too fancy and as I put a lot of time into the logo wanted that to stand out along with the CTA's.
+
+![archivo-font](/assets/docs/archivo-font.png)
+
 ### Imagery
+
+I wanted the homepage to be really intriguing, as the website is about food, what better way than with a city image of street food? 
+
 
 ## Features
 
@@ -126,6 +143,7 @@ Best Eats page on a Desktop
 ![besteats-cta-desk](/assets/docs/best-eats-desk.png)
 
 Best Eats page on mobile 
+
 ![besteats-cta-mob](/assets/docs/mobile-cta.png)
 
 
